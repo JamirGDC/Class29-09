@@ -70,6 +70,7 @@ Es importante mencionar que cada una de estas partes es opcional, lo que signifi
 
 ## Diagrama
 
+![Diagrama de flujo de una retrospectiva](https://github.com/JamirGDC/Class29-09/blob/main/CleanShot%202023-10-02%20at%2010.31.29.png)
 
 
 
